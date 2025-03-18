@@ -13,6 +13,6 @@ We love code!!
 * 🤝  We're open to collaborating on others projects
 * ⚡  We like skateboarding
 
-<a href="https://www.github.com/Gyouh" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/InterestingGroup" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/InterestingGroup?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
